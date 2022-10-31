@@ -1,0 +1,9 @@
+table {
+    width:100%;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+thead{
+    background-color: rgb(140, 140, 165);
+    text-align: left;
+}
